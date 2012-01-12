@@ -1,0 +1,3 @@
+Prusa Stiffened Lower Z Bracket.
+
+The Prusa frame design was optimised by Prusa to use as little plastic as possible.  But on my Prusa Mendel and on others there is an inherent weakness on the x plane.  Cross bracing the frame of the printer helps this to some degree, but this lower bracket is designed to hold the Z axis smooth rods at an exact 90 degrees and do so in a very stiff fashion.  I hope that this will reduce even more the movement in the x-axis and also improve the straigtness of the Z-axis.
